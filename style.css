@@ -1,4 +1,26 @@
 body {
+    
     background-color: #f7cac9;
     color: black;
+    text-align: center;
+    text-size: 75px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    
+}
+a:link {
+    text-decoration: none;
+}
+a:visted {
+    text-decoration: none; color: pink;
+}
+a:hover {
+    text-decoration: none; color: orange;
 }
